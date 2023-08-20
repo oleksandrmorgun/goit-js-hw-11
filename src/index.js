@@ -1,3 +1,5 @@
+
+
 const formEl = document.querySelector('.search-form');
 const galleryEl = document.querySelector('.gallery');
 const btnLoadMoreEl = document.querySelector('.load-more');
